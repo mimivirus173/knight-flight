@@ -1,6 +1,6 @@
 # knight-flight
 
-**Instructions**
+## Instructions
 
 press space to go up
 
@@ -9,7 +9,7 @@ press n or o to change dragon
 don't hit anything
 
 
-**Notes and Credits**
+## Notes and Credits
 
 made for a school project dec. 2020
 
