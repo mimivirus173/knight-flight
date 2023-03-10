@@ -25,7 +25,7 @@ monke #1 - 62,5% art
 monke #2 - 12,5% art
 
 
-changelog:
+**changelog**:
 
 v1
 -made game
