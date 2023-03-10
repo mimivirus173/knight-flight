@@ -1,0 +1,13 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0px;
+}
+
+#footer {
+    clear: both;
+    bottom: 0px;
+    right: 0px;
+    padding: 10px;
+    text-align: right;
+    position: absolute;
+}
